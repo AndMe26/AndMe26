@@ -33,11 +33,12 @@
 ### 📊 GitHub Stats & Widgets
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndMe26&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndMe26&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndMe26&repo=PlanCity&theme=tokyonight" alt="PlanCity Repo" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndMe26&theme=tokyonight" alt="GitHub Streak" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndMe26&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
